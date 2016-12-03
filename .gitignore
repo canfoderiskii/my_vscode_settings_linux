@@ -1,0 +1,9 @@
+Code/Cache/
+Code/GPUCache/
+Code/Local Storage/
+Code/Cookie*
+Code/storage.json
+Code/User/workspaceStorage/
+
+# exclude extension directory
+.vscode/
