@@ -4,6 +4,8 @@ Code/Local Storage/
 Code/Cookie*
 Code/storage.json
 Code/User/workspaceStorage/
+Code/Backups/
+Code/CachedData/
 
 # exclude extension directory
 .vscode/
